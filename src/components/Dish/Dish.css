@@ -4,5 +4,10 @@
     border: green solid 2px;
     padding: 1.5rem;
     margin: 1.5rem;
-    width: 50%;
+    width: 60vw;
+    font-size: 0.5em;
+}
+.dish-img img {
+    border: 2px solid orange;
+    width: 17vw;
 }
