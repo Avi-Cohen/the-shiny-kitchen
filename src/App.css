@@ -368,3 +368,7 @@ template {
   justify-content: space-around;
   align-items: center;
 }
+
+body {
+  background: rgba(220, 238, 233, 0.735);
+}
