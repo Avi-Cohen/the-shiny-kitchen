@@ -15,9 +15,7 @@ function App() {
   return (
     <div className="app">
       <BrowserRouter>
-        <Navbar />
         <div className="background-image"></div>
-        <Router />
         <ul className="dishes">
           {dishes.map((dish) => (
             <Dish 

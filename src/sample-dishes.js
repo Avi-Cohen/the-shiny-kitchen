@@ -4,7 +4,7 @@ const dishes = [
         title: "food1",
         img: "https://picsum.photos/200/135",
         price: 50,
-        description: "Very good pasta dish",
+        description: "Very good pasta dishVery good pasta dishVery good pasta Very good pasta dishdishVery good pasta dish",
         category: '1'
 
     },
