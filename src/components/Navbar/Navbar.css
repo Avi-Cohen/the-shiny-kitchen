@@ -1,0 +1,13 @@
+.navbar {
+  border: green 2px solid;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  font-size: 1.3em;
+  
+}
+li {
+}
