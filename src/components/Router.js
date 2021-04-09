@@ -16,25 +16,25 @@ function Router() {
       <BrowserRouter>
         <Navbar />
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/the-shiny-kitchen/">
             <App />
           </Route>
-          <Route exact path="/contact">
+          <Route exact path="/the-shiny-kitchen/contact">
             <Contact />
           </Route>
-          <Route exact path="/checkout">
+          <Route exact path="/the-shiny-kitchen/checkout">
             <Checkout />
           </Route>
-          <Route exact path="/about">
+          <Route exact path="/the-shiny-kitchen/about">
             <About />
           </Route>
-          <Route exact path="/faq">
+          <Route exact path="/the-shiny-kitchen/faq">
             <Faq />
           </Route>
-          <Route exact path="/register">
+          <Route exact path="/the-shiny-kitchen/register">
             <Register />
           </Route>
-          <Route exact path="/login">
+          <Route exact path="/the-shiny-kitchen/login">
             <Login />
           </Route>
           <Route>

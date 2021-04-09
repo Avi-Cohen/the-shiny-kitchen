@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/the-shiny-kitchen/static/css/main.900fdede.chunk.css",
-    "main.js": "/the-shiny-kitchen/static/js/main.6b044eb9.chunk.js",
-    "main.js.map": "/the-shiny-kitchen/static/js/main.6b044eb9.chunk.js.map",
+    "main.css": "/the-shiny-kitchen/static/css/main.2b294cf0.chunk.css",
+    "main.js": "/the-shiny-kitchen/static/js/main.7fd2fb79.chunk.js",
+    "main.js.map": "/the-shiny-kitchen/static/js/main.7fd2fb79.chunk.js.map",
     "runtime-main.js": "/the-shiny-kitchen/static/js/runtime-main.5a43230c.js",
     "runtime-main.js.map": "/the-shiny-kitchen/static/js/runtime-main.5a43230c.js.map",
-    "static/js/2.3aab07f5.chunk.js": "/the-shiny-kitchen/static/js/2.3aab07f5.chunk.js",
-    "static/js/2.3aab07f5.chunk.js.map": "/the-shiny-kitchen/static/js/2.3aab07f5.chunk.js.map",
+    "static/js/2.b4b47630.chunk.js": "/the-shiny-kitchen/static/js/2.b4b47630.chunk.js",
+    "static/js/2.b4b47630.chunk.js.map": "/the-shiny-kitchen/static/js/2.b4b47630.chunk.js.map",
     "static/js/3.6b2d532d.chunk.js": "/the-shiny-kitchen/static/js/3.6b2d532d.chunk.js",
     "static/js/3.6b2d532d.chunk.js.map": "/the-shiny-kitchen/static/js/3.6b2d532d.chunk.js.map",
     "index.html": "/the-shiny-kitchen/index.html",
-    "static/css/main.900fdede.chunk.css.map": "/the-shiny-kitchen/static/css/main.900fdede.chunk.css.map",
-    "static/js/2.3aab07f5.chunk.js.LICENSE.txt": "/the-shiny-kitchen/static/js/2.3aab07f5.chunk.js.LICENSE.txt"
+    "static/css/main.2b294cf0.chunk.css.map": "/the-shiny-kitchen/static/css/main.2b294cf0.chunk.css.map",
+    "static/js/2.b4b47630.chunk.js.LICENSE.txt": "/the-shiny-kitchen/static/js/2.b4b47630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a43230c.js",
-    "static/js/2.3aab07f5.chunk.js",
-    "static/css/main.900fdede.chunk.css",
-    "static/js/main.6b044eb9.chunk.js"
+    "static/js/2.b4b47630.chunk.js",
+    "static/css/main.2b294cf0.chunk.css",
+    "static/js/main.7fd2fb79.chunk.js"
   ]
 }

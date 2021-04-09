@@ -7,21 +7,21 @@ function Navbar() {
     <div className="navbar">
       <ul>
         <li>
-          <Link to='/'>
+          <Link to='/the-shiny-kitchen/'>
             <i className="fa fa-cutlery" aria-hidden="true"></i>
           </Link>
         </li>
         <li>
-          <Link to='/'>בית</Link>
+          <Link to='/the-shiny-kitchen/'>בית</Link>
         </li>
         <li>
-          <Link to='/contact'>יצירת קשר</Link>
+          <Link to='/the-shiny-kitchen/contact'>יצירת קשר</Link>
         </li>
         <li>
-          <Link to='/faq'>שאלות ותשובות</Link>
+          <Link to='/the-shiny-kitchen/faq'>שאלות ותשובות</Link>
         </li>
         <li>
-          <Link to='/checkout'>
+          <Link to='/the-shiny-kitchen/checkout'>
             <i className="fa fa-shopping-cart" aria-hidden="true"></i>
           </Link>
         </li>
