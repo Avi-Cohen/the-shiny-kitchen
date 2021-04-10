@@ -1,0 +1,6 @@
+.category {
+    font-size: 2em;
+    display: flex;
+    flex-direction: row-reverse ;
+    font-weight: bold;
+}

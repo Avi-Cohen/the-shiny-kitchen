@@ -1,5 +1,6 @@
 .menu-dish {
   display: flex;
+  flex-direction: row-reverse;
   justify-content: space-between;
   padding: 0.5rem;
   margin: 0.5rem;
@@ -11,6 +12,7 @@
 .dish-img img {
   width: 40vw;
   border-radius: 15px;
+  margin-right: 2em;
 }
 
 .dish-info button {

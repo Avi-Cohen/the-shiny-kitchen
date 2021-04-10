@@ -15,6 +15,9 @@ function Navbar() {
           <Link to='/the-shiny-kitchen/'>בית</Link>
         </li>
         <li>
+          <Link to='/the-shiny-kitchen/about'>אודות</Link>
+        </li>
+        <li>
           <Link to='/the-shiny-kitchen/contact'>יצירת קשר</Link>
         </li>
         <li>

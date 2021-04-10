@@ -6,8 +6,9 @@ ul {
   display: flex;
   justify-content: space-around;
   flex-direction: row-reverse;
-  font-size: 1.3em;
-  
+  font-size: 1em;
 }
-li {
+* {
+  text-decoration: none;
+  color: rgb(1, 73, 1);
 }

@@ -1,34 +1,16 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar";
-import Router from "./components/Router";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, useHistory } from "react-router-dom";
+import Home from "./pages/Home/Home";
 import sampleDishes from "./sample-dishes";
-import Dish from "./components/Dish/Dish";
+import Checkout from "./pages/Checkout";
 
-function App() {
-  const [dishes, setDishes] = useState(sampleDishes);
-  const [order, setOrder] = useState([]);
-
-  console.log(dishes);
-
+function App(params) {
+  const {addToOrder, order, dishes} = params;
   return (
     <div className="app">
       <BrowserRouter>
-        <div className="background-image"></div>
-        <ul className="dishes">
-          {dishes.map((dish) => (
-            <Dish 
-              key = {dish.sku}
-              sku={dish.sku}
-              title={dish.title}
-              img={dish.img}
-              price={dish.price}
-              description={dish.description}
-              category={dish.category}
-            />
-          ))}
-        </ul>
+        <Home addToOrder={addToOrder} order={order} dishes={dishes} />
       </BrowserRouter>
     </div>
   );
