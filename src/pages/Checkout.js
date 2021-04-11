@@ -2,7 +2,7 @@ import React from "react";
 import Dish from "../components/Dish/Dish";
 
 function Checkout(params) {
-  console.log(params.order);
+  console.log(params);
   const { order = [ ] } = params;
   const orders = order.map((order) => (
     <Dish

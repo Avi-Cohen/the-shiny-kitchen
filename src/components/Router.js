@@ -29,7 +29,7 @@ function Router() {
             <Contact />
           </Route>
           <Route exact path="/the-shiny-kitchen/checkout">
-            <Checkout />
+            <Checkout order={order}/>
           </Route>
           <Route exact path="/the-shiny-kitchen/about">
             <About />
